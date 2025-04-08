@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Dhanush Shetty!<br>💻 Aspiring Developer | Web & AI Learner<br><br>🚀 About Me:<br>🎓 Age: 19  <br>💡 Currently exploring DSA, Web Development  and AI/ML with Python<br>🔢 Strong interest in competitive programming <br>🎯 What I'm Focusing On:<br>✅ Mastering DSA to crack coding interviews<br>✅ Building full-stack applications using MERN<br>✅ Exploring AI/ML with Python for future projects<br><br>📬 Let's Connect!<br>📩 Feel free to reach out for collaborations, discussions, or projects!
+👋 Hey, I'm Dhanush Shetty!<br>💻 Aspiring Developer | Web & AI Learner<br><br>🎓 Age: 19  <br>💡 Currently exploring DSA, Web Development  and AI/ML with Python<br>🔢 Strong interest in competitive programming <br>🎯 What I'm Focusing On:<br>✅ Mastering DSA to crack coding interviews<br>✅ Building full-stack applications using MERN<br>✅ Exploring AI/ML with Python for future projects<br><br>📬 Let's Connect!<br>📩 Feel free to reach out for collaborations, discussions, or projects!
 
 
 ## 🌐 Socials:
