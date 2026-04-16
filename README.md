@@ -49,13 +49,7 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
 
-<p align="center">
-🥇 ETHGlobal Winner <br>
-🤖 AI/ML Intern @ Proxenix <br>
-📊 Built multiple AI + Full Stack + Web3 projects
-</p>
 
 ---
 
