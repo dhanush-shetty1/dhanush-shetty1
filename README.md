@@ -24,7 +24,7 @@
   <a href="https://instagram.com/dhan.ushs">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/dhanush-shetty">
+  <a href="[https://www.linkedin.com/in/dhanush-shetty](https://www.linkedin.com/in/dhanush-shetty-b81468296/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:dhanushshetty1217@gmail.com">
