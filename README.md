@@ -1,24 +1,78 @@
-# 💫 About Me:
-👋 Hey,I am Dhanush Shetty!<br>💻 Aspiring Developer | Web & AI Learner<br><br>🎓 Age: 19  <br>💡 Currently exploring DSA, Web Development  and AI/ML with Python<br>🔢 Strong interest in competitive programming <br>🎯 What I'm Focusing On:<br>✅ Mastering DSA to crack coding interviews<br>✅ Building full-stack applications using MERN<br>✅ Exploring AI/ML with Python for future projects<br><br>📬 Let's Connect!<br>📩 Feel free to reach out for collaborations, discussions, or projects!
+<h1 align="center">Hey 👋 What's Up? I'm Dhanush Shetty</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhan.ushs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-shetty-b81468296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanushshetty1217@gmail.com) 
+<h3 align="center">💻 Aspiring Developer | Web & AI Learner</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhanush-shetty1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+🎓 19 y/o <br>
+💡 Exploring DSA, Web Dev & AI/ML with Python <br>
+🔢 Competitive Programming Enthusiast
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=dhanush-shetty1&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<h3 align="center">🚀 What I'm Focusing On</h3>
+
+<p align="center">
+✅ Mastering DSA for coding interviews <br>
+✅ Building full-stack apps using MERN <br>
+✅ Exploring AI/ML for future projects
+</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js,php,python,r,mysql,postgres,figma" height="60" />
+</div>
+
+###
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<div align="center">
+  <a href="https://instagram.com/dhan.ushs">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhanush-shetty-b81468296/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:dhanushshetty1217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&theme=dracula&hide_border=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhanush-shetty1&theme=dracula&hide_border=false" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&theme=dracula&layout=compact" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=dhanush-shetty1&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=dhanush-shetty1&icon=0&color=0" />
+</p>
