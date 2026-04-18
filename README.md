@@ -3,7 +3,7 @@
 <h3 align="center">💻 Aspiring Developer | Web, AI & Web3 Builder</h3>
 
 <p align="center">
-🎓 B.Tech @ KJ Somaiya (9.6 CGPA) <br>
+🎓 B.Tech @ KJ Somaiya <br>
 🚀 Full Stack + AI/ML + Blockchain <br>
 🏆 ETHGlobal Winner
 </p>
