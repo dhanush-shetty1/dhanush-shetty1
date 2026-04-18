@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up? I'm Dhanush Shetty</h1>
+<h1 align="center">I'm Dhanush Shetty</h1>
 
 <h3 align="center">💻 Aspiring Developer | Web, AI & Web3 Builder</h3>
 
