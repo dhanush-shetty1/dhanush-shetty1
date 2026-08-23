@@ -1,65 +1,69 @@
-<h1 align="center">I'm Dhanush Shetty</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&height=50&lines=Dhanush+Shetty;AI%2FML+%26+Full+Stack+Builder;Winner+%40+ETHGlobal+2025" alt="Typing SVG" />
+</p>
 
-<h3 align="center">💻 Aspiring Developer | Web, AI & Web3 Builder</h3>
+<h3 align="center">Computer Engineering Undergraduate @ K.J. Somaiya College of Engineering</h3>
+<p align="center">
+  Specializing in Data Science & Analytics (Honours) | Class of 2027 | 9.41/10.0 CGPA
+</p>
 
 <p align="center">
-🎓 B.Tech @ KJ Somaiya <br>
-🚀 Full Stack + AI/ML + Blockchain <br>
-🏆 ETHGlobal Winner
+  <a href="https://www.linkedin.com/in/dhanush-shetty-b81468296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhanushshetty1217@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dhanushportfolio-sooty.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+### 🛠️ Technical Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,solidity,html,css,react,nodejs,express,tailwind,mongodb,mysql,postgres,docker,git,vercel" height="60" />
-</div>
+<p align="center">
+  <b>Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,solidity,html,css" height="40" alt="Languages" />
+</p>
 
----
+<p align="center">
+  <b>Frameworks & Databases:</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,mysql,postgres" height="40" alt="Frameworks & Databases" />
+</p>
 
-<h3 align="center">🌐 Connect With Me</h3>
-
-<div align="center">
-  <a href="https://instagram.com/dhan.ushs">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhanush-shetty-b81468296/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:dhanushshetty1217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+<p align="center">
+  <b>Developer Tools & Ecosystem:</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,vercel,vite,postman,figma" height="40" alt="Developer Tools" />
+</p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🎓 Education
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&theme=dracula&show_icons=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=dhanush-shetty1&theme=dracula" height="150" />
-</div>
+- 🏫 **K.J. Somaiya College of Engineering** — Bachelor of Technology in Computer Engineering  
+  *Honours in Data Science and Analytics | Class of 2027 | CGPA: 9.41/10.0*
+- 🏫 **Apeejay School Nerul** — Central Board of Secondary Education (CBSE)  
+  *AISSCE Class XII | 2021 – 2023 | Score: 91.4%*
 
----
+### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&layout=compact&theme=dracula" height="150" />
-</div>
+- 🥇 **ETHGlobal Online 2025 Winner** — Won track prize competing against 1,600+ participants and 600+ project submissions.
 
 ---
 
+### 📊 GitHub Metrics & Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&show_icons=true&theme=dracula&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&layout=compact&theme=dracula" height="165" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=dhanush-shetty1&theme=dracula" height="165" />
+</p>
 
----
-
-<h3 align="center">👾 Contribution Graph</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="snake graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<h4 align="center">👾 Contribution Game (Snake)</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
