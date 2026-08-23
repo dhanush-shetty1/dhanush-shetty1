@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&height=50&lines=Dhanush+Shetty;AI%2FML+%26+Full+Stack+Builder;Winner+%40+ETHGlobal+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&height=50&lines=Dhanush+Shetty;Winner+%40+ETHGlobal+2025" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Computer Engineering Undergraduate @ K.J. Somaiya College of Engineering</h3>
-<p align="center">
-  Specializing in Data Science & Analytics (Honours) | Class of 2027 | 9.41/10.0 CGPA
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-shetty-b81468296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -34,16 +31,14 @@
 
 ---
 
-### 🎓 Education
+### Education
 
-- 🏫 **K.J. Somaiya College of Engineering** — Bachelor of Technology in Computer Engineering  
-  *Honours in Data Science and Analytics | Class of 2027 | CGPA: 9.41/10.0*
-- 🏫 **Apeejay School Nerul** — Central Board of Secondary Education (CBSE)  
-  *AISSCE Class XII | 2021 – 2023 | Score: 91.4%*
+- **K.J. Somaiya College of Engineering** — Bachelor of Technology in Computer Engineering  
+- **Apeejay School Nerul** — Central Board of Secondary Education (CBSE)  
 
-### 🏆 Achievements
+### Achievements
 
-- 🥇 **ETHGlobal Online 2025 Winner** — Won track prize competing against 1,600+ participants and 600+ project submissions.
+-  **ETHGlobal Online 2025 Winner** — Won track prize competing against 1,600+ participants and 600+ project submissions.
 
 ---
 
