@@ -39,7 +39,7 @@
   <img src="https://streak-stats.demolab.com?user=dhanush-shetty1&theme=dracula" height="165" />
 </p>
 
-<h4 align="center">👾 Contribution Game (Snake)</h4>
+<h4 align="center"> Contribution Graph</h4>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-contribution-grid-snake-dark.svg">
