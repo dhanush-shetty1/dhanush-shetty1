@@ -29,18 +29,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,vercel,vite,postman,figma" height="40" alt="Developer Tools" />
 </p>
 
----
-
-### Education
-
-- **K.J. Somaiya College of Engineering** — Bachelor of Technology in Computer Engineering  
-- **Apeejay School Nerul** — Central Board of Secondary Education (CBSE)  
-
-### Achievements
-
--  **ETHGlobal Online 2025 Winner** — Won track prize competing against 1,600+ participants and 600+ project submissions.
-
----
 
 ### 📊 GitHub Metrics & Activity
 
