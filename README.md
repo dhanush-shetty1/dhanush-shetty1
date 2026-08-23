@@ -1,102 +1,64 @@
-# Dhanush Shetty
-`B.Tech in Computer Engineering @ K.J. Somaiya College of Engineering`  
-`Specializing in Data Science & Analytics (Honours)`
+<h1 align="center">I'm Dhanush Shetty</h1>
+
+<h3 align="center">💻 Aspiring Developer | Web, AI & Web3 Builder</h3>
+
+<p align="center">
+🎓 B.Tech @ KJ Somaiya <br>
+🚀 Full Stack + AI/ML + Blockchain <br>
+🏆 ETHGlobal Winner
+</p>
 
 ---
 
-```
-================================================================================
-[SYSTEM SPECIFICATIONS]
-================================================================================
-- USER_ID:          dhanush-shetty1
-- DOMAINS:          Full-Stack Web Systems, AI/ML (NLP/Transformers), Web3 & Blockchain
-- ENROLLMENT:       Undergraduate B.Tech, 3rd Year (Expected graduation: 2027)
-- PERFORMANCE:      9.41 CGPA
-- ACHIEVEMENTS:     ETHGlobal Online 2025 Winner
-- LINKS:            [Portfolio](https://dhanushportfolio-sooty.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/dhanush-shetty-b81468296/) | [Email](mailto:dhanushshetty1217@gmail.com)
-================================================================================
-```
+<h3 align="center">🚀 Tech Stack</h3>
 
-### [TECHNICAL_SKILLS]
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,solidity,html,css,react,nodejs,express,tailwind,mongodb,mysql,postgres,docker,git,vercel" height="60" />
+</div>
 
-| Category | Skill Vector |
-| :--- | :--- |
-| **Languages** | `C/C++`, `Python`, `Java`, `JavaScript`, `TypeScript`, `Solidity`, `SQL`, `HTML/CSS` |
-| **Libraries & Frameworks** | `React`, `Node.js`, `Express.js`, `Tailwind CSS`, `Bootstrap`, `Ethers.js`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Pandas`, `NumPy` |
-| **Databases & Storage** | `MongoDB`, `PostgreSQL`, `MySQL`, `SQL` |
-| **Developer Ecosystem** | `Git/GitHub`, `Vercel`, `Vite`, `ShadCN`, `Docker`, `OpenAPI`, `Postman`, `VS Code`, `Canva`, `Figma` |
+---
 
-### [EXPERIENCE]
+<h3 align="center">🌐 Connect With Me</h3>
 
-**DFX** | *AI Associate & Marketing Intern*  
-*March 2026 – June 2026 | Boston, Massachusetts, USA (Remote)*
-- Conducted a 12-week internship focused on private capital markets, gaining hands-on engineering and testing experience with DFX's AI ecosystem (DFXIntel, PollCap, and proprietary internal deal intelligence platforms).
-- Evaluated and benchmarked enterprise AI workflows, LLM tools, and infrastructure to optimize decision-making workflows.
-- Formulated a non-AI moat strategy proposing the *Personal Live Network* framework—a self-reinforcing user interaction model designed to capture live, proprietary deal-flow and relationship data.
-- Partnered with product and marketing squads to review, audit, and validate workflows to identify key product growth vectors.
+<div align="center">
+  <a href="https://instagram.com/dhan.ushs">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhanush-shetty-b81468296/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:dhanushshetty1217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
-**Proxenix** | *AI/ML Intern*  
-*June 2025 – July 2025 | Mumbai, India*
-- Developed and fine-tuned text summarization and movie sentiment classification models using transformer architectures.
-- Attained 89% classification accuracy and 65% text volume reduction while maintaining semantic density and context.
-- Optimized and streamlined ML preprocessing pipelines and model training routines, improving overall script execution runtime by 30%.
+---
 
-### [PROJECTS]
+<h3 align="center">📊 GitHub Stats</h3>
 
-**StakED** | *React, TypeScript, Express.js, MongoDB, Solidity, Hardhat*  
-*Decentralized Academic Performance Staking Protocol*  
-- Engineered a Web3 protocol allowing users to stake PayPal PYUSD on academic performance and exam outcomes.
-- Programmed Solidity smart contracts in Hardhat to administer exam verification, stake delegation, and automated distributions based on verified academic logs.
-- Implemented real-time operational panels for students (performance analytics, active positions) and verifiers (grading validation queues).
-- Links: [Code Repository](https://github.com/Craig-Rosario/StakED) | [Deployment](https://stak-ed.vercel.app/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&theme=dracula&show_icons=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=dhanush-shetty1&theme=dracula" height="150" />
+</div>
 
-**Mockly** | *React, TypeScript, Express.js, MongoDB, Google Gemini API*  
-*AI-Powered Interview Coach & Assessment Engine*  
-- Integrated Google Gemini LLMs to parse and analyze user resumes against target job descriptions, outputting compatibility scores, missing keywords, and contextual suggestions.
-- Built a dynamic assessment runner that compiles 10 distinct job-specific questions, computes answers in real time, and logs metrics on response speed and skill accuracy.
-- Links: [Code Repository](https://github.com/dhanush-shetty1/Mockly) | [Deployment](https://mockly-interview.vercel.app/)
+---
 
-**goBroke** | *HTML, CSS, JavaScript, PHP, MySQL*  
-*Full-Stack Personal Finance & Budget Ledger*  
-- Designed a secure personal finance manager with robust session tracking, secure authentication, and database-backed record keeping.
-- Constructed a custom PHP-MySQL relational database backend for handling CRUD actions on user budgets, income streams, expenses, and automated bill alerts.
-- Programmed an adaptable user interface implementing grid systems to optimize usability and layout density across different screens.
-- Links: [Code Repository](https://github.com/Craig-Rosario/goBroke)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&layout=compact&theme=dracula" height="150" />
+</div>
 
-### [EDUCATION]
+---
 
-- **K.J. Somaiya College of Engineering** — Bachelor of Technology in Computer Engineering  
-  *Honours in Data Science and Analytics | Class of 2027 | CGPA: 9.41/10.0*
-- **Apeejay School Nerul** — Central Board of Secondary Education (CBSE)  
-  *AISSCE Class XII | 2021 – 2023 | Score: 91.4%*
 
-### [ACHIEVEMENTS]
 
-- **ETHGlobal Online 2025 Winner** — Won track prize competing against 1,600+ participants and 600+ project submissions.
+---
 
-### [ANALYTICS]
+<h3 align="center">👾 Contribution Graph</h3>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhanush-shetty1&theme=dracula&show_icons=true" height="165" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-shetty1&layout=compact&theme=dracula" height="165" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="100%">
-      <img src="https://streak-stats.demolab.com?user=dhanush-shetty1&theme=dracula" height="165" />
-    </td>
-  </tr>
-</table>
-
-#### Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-snake.svg">
-  <img alt="GitHub Snake Contributions" src="https://raw.githubusercontent.com/dhanush-shetty1/dhanush-shetty1/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="snake graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
