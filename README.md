@@ -24,7 +24,7 @@
     />
   </a>
 
-  <a href="https://dhanushportfolio-sooty.vercel.app/">
+  <a href="https://www.dhanushshetty.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
